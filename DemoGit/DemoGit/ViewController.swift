@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
 
     func setupView(){
+        print("4567")
     }
 
 }
