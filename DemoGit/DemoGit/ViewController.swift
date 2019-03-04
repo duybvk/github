@@ -17,7 +17,11 @@ class ViewController: UIViewController {
 
     func setupView(){
         print("4567")
+        print("1234")
     }
 
+    
+    func configCell(){
+    }
 }
 
